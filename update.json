@@ -1,7 +1,7 @@
 {
-  "version": "0.1.12",
+  "version": "0.1.13",
   "packageUrl": "https://github.com/120Domini/launcher-samp/releases/latest/download/latest.zip",
-  "title": "Patch Notes 0.1.12",
-  "notes": "Adicionamos a nova tela de Patch Notes na abertura do launcher; Melhoramos o visual da janela de novidades para uma leitura mais agradável; Atualizamos a área de servidores com novos ajustes de exibição; Refinamos a Lista de GTA para melhorar a navegação e organização; Aplicamos melhorias gerais de interface e estabilidade",
+  "title": "Patch Notes 0.1.13",
+  "notes": "Melhorias na Home. Melhorias nas Configurações. Novo sistema de notificações integrado com a dashboard.",
   "mandatory": false
 }
