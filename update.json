@@ -1,7 +1,7 @@
 {
-  "version": "0.1.13",
+  "version": "0.1.14",
   "packageUrl": "https://github.com/120Domini/launcher-samp/releases/latest/download/latest.zip",
-  "title": "Patch Notes 0.1.13",
-  "notes": "Melhorias na Home. Melhorias nas Configurações. Novo sistema de notificações integrado com a dashboard.",
+  "title": "Patch Notes 0.1.14",
+  "notes": "Melhorias na tela de Launch do GTA; Melhorias no Rich Presence; Escolha de resolução removida.",
   "mandatory": false
 }
