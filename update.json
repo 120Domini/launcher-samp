@@ -1,7 +1,7 @@
 {
-  "version": "0.1.14",
+  "version": "0.1.15",
   "packageUrl": "https://github.com/120Domini/launcher-samp/releases/latest/download/latest.zip",
-  "title": "Patch Notes 0.1.14",
-  "notes": "Melhorias na tela de Launch do GTA; Melhorias no Rich Presence; Escolha de resolução removida.",
+  "title": "Patch Notes 0.1.15",
+  "notes": "Correção nos download de arquivos pesados.",
   "mandatory": false
 }
