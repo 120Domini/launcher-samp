@@ -1,7 +1,7 @@
 {
-  "version": "0.1.16",
+  "version": "0.2.0",
   "packageUrl": "https://github.com/120Domini/launcher-samp/releases/latest/download/latest.zip",
-  "title": "Patch Notes 0.1.16",
-  "notes": "Nova Área Perfil do Usuário; Agora é contado o tempo que você passa jogando nos servidores.",
+  "title": "Patch Notes 0.2.0",
+  "notes": "Changelog completo no discord!",
   "mandatory": false
 }
