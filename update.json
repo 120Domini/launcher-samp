@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "packageUrl": "https://github.com/120Domini/launcher-samp/releases/latest/download/latest.zip",
-  "title": "Patch Notes 1.0.1",
-  "notes": "Correções e modificações.",
+  "title": "Patch Notes 1.0.2",
+  "notes": "Nova versão 1.0.2",
   "mandatory": false,
 
   "sfmod": {
