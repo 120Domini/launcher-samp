@@ -1,28 +1,26 @@
 {
   "version": "1.0.1",
-
   "packageUrl": "https://github.com/120Domini/launcher-samp/releases/latest/download/latest.zip",
-
   "title": "Patch Notes 1.0.1",
-
   "notes": "Correções e modificações.",
-
   "mandatory": false,
+
+  "sfmod": {
+    "downloadUrl": "https://drive.google.com/file/d/19DtCWQZojVu0jLGSLkJrcDUNRKvfy5iB/view?usp=sharing"
+  },
 
   "gtaPackages": {
     "strong": {
       "downloadUrl": "",
       "archivePassword": ""
     },
-
     "normal": {
-      "downloadUrl": "https://drive.google.com/file/d/1AkupxATwlrrj9M01IjZQv_MJsWbj46Un/view?usp=sharing",
+      "downloadUrl": "https://drive.google.com/file/d/1TOLISYtcMqWzqM45xjjC7lgBbTHnBl57/view?usp=sharing",
       "archivePassword": "sfsix"
     },
-
     "weak": {
-      "downloadUrl": "",
-      "archivePassword": ""
+      "downloadUrl": "https://drive.google.com/file/d/1391YLhsI8llnj9uWqRgy7Z3Uret6semb/view?usp=sharing",
+      "archivePassword": "sfsix"
     }
   }
 }
